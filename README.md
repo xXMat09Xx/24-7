@@ -1,5 +1,5 @@
-# NQN-discord.js
-🎄bot like nqn
+#Bot discord
+
 
 🎄npm i discord.js@dev to install discord.js v14
 
